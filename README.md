@@ -1,5 +1,7 @@
 # developer-env-bootstrapper
 
+![CI](https://github.com/TryKosm/developer-env-bootstrapper/actions/workflows/ci.yml/badge.svg)
+
 Shell-based toolkit to provision consistent local development environments across services.
 
 ## Included Scripts
