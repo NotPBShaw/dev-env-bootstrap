@@ -1,6 +1,8 @@
-# developer-env-bootstrapper
+# Dev Env Bootstrap
 
-![CI](https://github.com/TryKosm/developer-env-bootstrapper/actions/workflows/ci.yml/badge.svg)
+Reproducible developer environment setup.
+
+![CI](https://github.com/TryKosm/dev-env-bootstrap/actions/workflows/ci.yml/badge.svg)
 
 Shell-based toolkit to provision consistent local development environments across services.
 
