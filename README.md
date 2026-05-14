@@ -2,7 +2,7 @@
 
 Reproducible developer environment setup.
 
-![CI](https://github.com/TryKosm/dev-env-bootstrap/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/NotPBShaw/dev-env-bootstrap/actions/workflows/ci.yml/badge.svg)
 
 Shell-based toolkit to provision consistent local development environments across services.
 
@@ -12,3 +12,13 @@ Shell-based toolkit to provision consistent local development environments acros
 - `scripts/setup_node.sh`
 - `scripts/setup_direnv.sh`
 - `scripts/setup_git_hooks.sh`
+
+## Quickstart
+
+```bash
+make check
+```
+
+## License
+
+MIT — see [LICENSE](LICENSE).
